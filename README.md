@@ -23,7 +23,7 @@ The Stroop effect demonstrates the brain's reaction time when the color of a wor
 
    ```bash
    git clone https://github.com/your-username/color-clash.git
-   cd color-matrix
+   cd color-clash
    ```
 
 2. **Install the dependencies:**
