@@ -1,8 +1,8 @@
-# Color Matrix Game
+# Color Clash Game
 
-[![Color Matrix](./public/gameplay.gif)](https://colormatrix.vercel.app/)
+[![Color Clash](./public/gameplay.gif)](https://color-clash.vercel.app/)
 
-**Color Matrix** is a progressive web application (PWA) built with Next.js, designed to challenge and enhance cognitive abilities through the Stroop effect. This interactive game tests players' reaction times by asking them to identify the color of words, which may not match the meaning of the words themselves. It offers a fun and engaging way to experience a well-known psychological phenomenon while improving attention, cognitive flexibility, and processing speed.
+**Color Clash** is a progressive web application (PWA) built with Next.js, designed to challenge and enhance cognitive abilities through the Stroop effect. This interactive game tests players' reaction times by asking them to identify the color of words, which may not match the meaning of the words themselves. It offers a fun and engaging way to experience a well-known psychological phenomenon while improving attention, cognitive flexibility, and processing speed.
 
 ## Features
 
@@ -22,7 +22,7 @@ The Stroop effect demonstrates the brain's reaction time when the color of a wor
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/color-matrix.git
+   git clone https://github.com/your-username/color-clash.git
    cd color-matrix
    ```
 
